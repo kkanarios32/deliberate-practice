@@ -1,0 +1,3 @@
+[submodule "os/ostep-projects"]
+	path = os/ostep-projects
+	url = git@github.com:kkanarios32/ostep-projects.git
